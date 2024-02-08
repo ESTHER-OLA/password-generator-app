@@ -53,8 +53,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/ESTHER-OLA/password-generator-app)
-- [Live Site URL](https://esther-ola.github.io/age-calculator-app-group-7/)
+- [Solution URL](https://passwordgench.netlify.app/)
+- [Live Site URL](https://github.com/ESTHER-OLA/passwordgen-app)
 
 ## My process
 
